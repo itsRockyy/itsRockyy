@@ -1,16 +1,46 @@
-### Hi there 👋
+# Abhijeet Saxena — @itsRockyy
+
+> ### SDE @ BookMyShow | Techie | ♡ JavaScript | Building Delightful User Experiences 🤩 
+
+<img width="200" height="200" src="https://avatars1.githubusercontent.com/u/20384478?s=460&u=7449c20f66d5b01d4c457f11cf8f064e7d420361&v=4"> 
+
+Hi there 👋 I'm Abhijeet. I am a full-stack developer from India 🇮🇳.  I have 4 years of experience in web development, currently specializing in front end as a Frontend Developer at [BookMyShow](https://in.bookmyshow.com/) 📽️🎬🍿 
+
+Avid learner and technology enthusiast. I'm knowledgeable in UI and UX, web standards, responsive design, accessibility, performance, testing, and the emerging technologies within the field. Also, I am comfortable working in an Agile/Scrum environment and fluent in modern web libraries, frameworks, tools, and best practices.
+
+**For more information about me, check out my website [itsRockyy.me](https://itsrockyy.me)**
 
 <!--
-**itsRockyy/itsRockyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ### 🔭 I’m currently working on ...
 -->
+
+### `Checkout My Projects`
+Popcorn Times | [Code](https://github.com/itsRockyy/popcorn) | [Live](https://popcorn-times.herokuapp.com/)
+
+WYSIWYG Editor | [Code](https://github.com/itsRockyy/wysiwyg) | [Live](https://itsrockyy.me/wysiwyg/)
+
+Star Wars Opening Crawl Creator | [Code](https://github.com/itsRockyy/star-wars-opening-crawl) | [Live](https://itsrockyy.me/star-wars-opening-crawl/)
+
+[...and more](https://github.com/itsRockyy?tab=repositories)
+
+### `Hire Me ? ✨`
+
+[Scan My CV](https://itsrockyy.me/assets/Abhijeet%20Saxena%20Resume.pdf) 👀📜
+
+### `Wanna Get In Touch ? 💬`
+
+[LinkedIn](https://www.linkedin.com/in/abhijeet-saxena/) | 
+[Facebook](https://www.facebook.com/abhijeet.saxena93) | 
+[Instagram](https://www.instagram.com/hey_im_abhi/) | 
+[Twitter](https://twitter.com/itsRocky93) |
+[Medium](https://medium.com/@abhijeet.saxena) |
+[Email](mailto:saxenaabhijeet@outlook.com)
+
