@@ -33,7 +33,7 @@ Star Wars Opening Crawl Creator | [Code](https://github.com/itsRockyy/star-wars-
 
 ### `Hire Me ? ✨`
 
-[Scan My CV](https://itsrockyy.me/assets/Abhijeet%20Saxena%20Resume.pdf) 👀📜
+[Scan My CV](https://github.com/itsRockyy/itsrockyy.github.io/raw/master/assets/Abhijeet%20Saxena%20Resume.pdf) 👀📜
 
 ### `Wanna Get In Touch ? 💬`
 
