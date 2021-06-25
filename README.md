@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ### `Checkout My Projects`
-Popcorn Times | [Code](https://github.com/itsRockyy/popcorn) | [Live](https://popcorn-times.herokuapp.com/)
+Popcorn Times | [Code](https://github.com/itsRockyy/popcorn) | [Live](https://popcorn-times.netlify.app/)
 
 WYSIWYG Editor | [Code](https://github.com/itsRockyy/wysiwyg) | [Live](https://itsrockyy.me/wysiwyg/)
 
